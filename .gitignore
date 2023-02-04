@@ -10,3 +10,10 @@ Icon
 
 # Thumbnails
 ._*
+
+### Python ###
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
